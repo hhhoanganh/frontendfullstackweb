@@ -1,0 +1,55 @@
+#instructions {
+    position: absolute;
+    margin: 20px;
+    width: 25%;
+    top: 0;
+    bottom: 20%;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: scroll;
+    font-family: sans-serif;
+  }
+#button1{
+  position: absolute;
+  margin: 20px;
+  width: 60px;
+  height: 30px;
+  bottom: 40px;
+  padding: auto;
+  background-color: goldenrod;
+  float: right;
+}
+#button2{
+  position: absolute;
+  margin: 20px;
+  margin-left: 80px;
+  width: 60px;
+  height: 30px;
+  bottom: 40px;
+  padding: auto;
+  background-color: goldenrod;
+  float: right;
+}
+#button3{
+  position: absolute;
+  margin: 20px;
+  width: 60px;
+  margin-left: 140px;
+  height: 30px;
+  bottom: 40px;
+  padding: auto;
+  background-color: goldenrod;
+  float: right;
+}
+#button4{
+  position: absolute;
+  margin: 20px;
+  margin-left: 200px;
+  width: 60px;
+  height: 30px;
+  bottom: 40px;
+  padding: auto;
+  background-color: goldenrod;
+  float: right;
+}
+
